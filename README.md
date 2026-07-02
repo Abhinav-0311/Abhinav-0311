@@ -18,7 +18,7 @@ I build practical systems that connect software engineering with interactive exp
 
 ## Tech Stack
 
-**AI / LLM Systems:** `RAG` `Embeddings` `Vector Search` `ChromaDB` `Gemini API` `OpenAI-style Structured Output` `Prompt Workflows`
+**AI / LLM Systems:** `RAG` `Embeddings` `Vector Search` `ChromaDB` `LLM APIs` `Structured Output` `Prompt Workflows`
 
 **Backend / Data:** `FastAPI` `Node.js` `Express.js` `REST APIs` `PostgreSQL` `SQLAlchemy` `Prisma` `MySQL`
 
@@ -34,10 +34,10 @@ I build practical systems that connect software engineering with interactive exp
 
 AI narrative engine and developer dashboard for game studios and indie developers.
 
-**Tech:** `FastAPI` `Next.js` `PostgreSQL` `ChromaDB` `Gemini API` `Docker` `RAG`
+**Tech:** `FastAPI` `Next.js` `PostgreSQL` `ChromaDB` `LLM APIs` `Docker` `RAG`
 
 - Built a game development workspace for lore ingestion, semantic search, NPC profile management, dialogue debugging, world knowledge graphs, episodic memory, progressive hints, and telemetry.
-- Implemented RAG over TXT/MD/PDF lore sources using Gemini embeddings and ChromaDB.
+- Implemented RAG over TXT/MD/PDF lore sources using embeddings, vector search, and ChromaDB.
 - Designed backend models for documents, NPCs, quests, memories, relationships, conversations, and telemetry.
 - Added Dockerized services, mock LLM fallback, migration handling, and backend verification with 97 passing tests.
 
