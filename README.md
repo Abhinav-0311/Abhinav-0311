@@ -66,6 +66,8 @@ Unity-based first-person puzzle prototype focused on gameplay clarity, interacti
 - Created puzzle mechanics, level design, interaction flow, and player-facing UI.
 - Iterated on challenge pacing, player guidance, and the connection between mechanics and level structure.
 
+Repository: **https://github.com/Abhinav-0311/ProjectEnora**
+
 ### Janadesh - Secure College Voting Platform
 
 Full-stack voting platform for web and Android with authentication, election workflows, and blockchain-backed validation.
@@ -75,6 +77,8 @@ Full-stack voting platform for web and Android with authentication, election wor
 - Built voting workflows with OTP authentication, candidate management, election lifecycle handling, and vote submission.
 - Implemented backend persistence and audit-friendly voting flows.
 - Added smart-contract validation for election lifecycle and double-vote prevention rules.
+
+Repository: **https://github.com/Abhinav-0311/Janadesh**
 
 ## Experience
 
